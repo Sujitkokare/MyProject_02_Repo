@@ -39,13 +39,3 @@ emp_id,transport,food_preference,uniform
 1038,Bus,Vegan,XXL
 1025,Car,Non-Veg,M
 1047,Metro,Veg,L
-1013,Bike,Eggitarian,XL
-1030,Bus,Non-Veg,M
-1007,Walk,Veg,S
-1036,Car,Non-Veg,L
-1020,Metro,Vegan,XL
-1041,Bike,Veg,M
-1016,Bus,Non-Veg,XXL
-1028,Car,Eggitarian,L
-1033,Walk,Veg,S
-1024,Metro,Non-Veg,M
